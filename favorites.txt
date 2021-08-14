@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Peppermint icecream
 Avocados
 watermelon
+=======
+heat
+fast times
+rocky
+>>>>>>> movies
